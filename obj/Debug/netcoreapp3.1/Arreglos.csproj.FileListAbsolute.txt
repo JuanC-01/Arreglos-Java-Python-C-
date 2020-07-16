@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.exe
+C:\Users\ASUS\Desktop\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.deps.json
+C:\Users\ASUS\Desktop\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.runtimeconfig.json
+C:\Users\ASUS\Desktop\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.dll
+C:\Users\ASUS\Desktop\Arreglos\bin\Debug\netcoreapp3.1\Arreglos.pdb
+C:\Users\ASUS\Desktop\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.dll
+C:\Users\ASUS\Desktop\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.pdb
+C:\Users\ASUS\Desktop\Arreglos\obj\Debug\netcoreapp3.1\Arreglos.genruntimeconfig.cache
